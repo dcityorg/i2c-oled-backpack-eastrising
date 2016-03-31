@@ -27,3 +27,5 @@ A demo program and software library are available for Arduino and Particle micro
 Bare PC boards are available from OSH Park.
 
 Our website has [complete details](http://wht.io/portfolio/i2c-oled-backpack-board-eastrising/) on using this board and the related software.
+
+This project is open source hardware. See License.md for license information.
