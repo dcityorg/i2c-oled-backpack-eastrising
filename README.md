@@ -4,15 +4,15 @@ I²C OLED Backpack Board for the East Rising OLED display (2 rows by 16 characte
 <div style="text-align: center;">
 
 <div style="display: inline-block; margin-right: 5px;">
-<img src="http://wht.io/wp-content/uploads/projects/i2c-oled-backpack-eastrising/backpack-eastrising.jpg" alt="i2c oled backpack eastrising" width="300" height="200" />
+<img src="http://wht.io/wp-content/uploads/projects/i2c-oled-backpack-eastrising/i2c-oled-backpack-eastrising.jpg" alt="i2c oled backpack eastrising" width="300" height="200" />
 </div>
 
 <div style="display: inline-block; margin-right: 5px;">
-<img src="http://wht.io/wp-content/uploads/projects/i2c-oled-backpack-eastrising/backpack-and-display-eastrising.jpg" alt="i2c oled backpack and display eastrising" width="300" height="200" />
+<img src="http://wht.io/wp-content/uploads/projects/i2c-oled-backpack-eastrising/i2c-oled-backpack-on-eastrising.jpg" alt="i2c oled backpack and display eastrising" width="300" height="200" />
 </div>
 
 <div style="display: inline-block; margin-right: 5px;">
-<img src="http://wht.io/wp-content/uploads/projects/i2c-oled-backpack-eastrising/eastrising-text-1.jpg" alt="i2c oled backpack and display eastrising" width="300" height="200" />
+<img src="http://wht.io/wp-content/uploads/projects/i2c-oled-backpack-eastrising/eastrising-seeeduino.jpg" alt="i2c oled backpack and display eastrising" width="300" height="200" />
 </div>
 
 </div>
