@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="9.1.3">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
+<setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
@@ -5747,12 +5748,12 @@ These are standard SMD and PTH capacitors. Normally 10uF, 47uF, and 100uF in ele
 <parts>
 <part name="FRAME1" library="0" deviceset="FRAME-LETTER-L" device=""/>
 <part name="U$1" library="0" deviceset="DOCFIELD-WHT" device="">
-<attribute name="COMPANYNAME" value="Windy Hill Technology LLC"/>
-<attribute name="COMPANYWEBSITE" value="http://wht.io"/>
-<attribute name="DATE" value="2/3/2016"/>
+<attribute name="COMPANYNAME" value="DCITY"/>
+<attribute name="COMPANYWEBSITE" value="http://dcity.org"/>
+<attribute name="DATE" value="8/27/2018"/>
 <attribute name="DRAWNBY" value="Gary Muhonen"/>
 <attribute name="TITLE" value="I2C OLED Backpack (EastRising)"/>
-<attribute name="VERSION" value="C"/>
+<attribute name="VERSION" value="D"/>
 </part>
 <part name="C1" library="0" deviceset="CAP" device="0805" value="100NF"/>
 <part name="J3" library="0" deviceset="M15" device="LOCK" value="15P-2.54"/>
