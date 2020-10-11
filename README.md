@@ -2,13 +2,13 @@
 
 <div style="text-align: center;">
 <div style="display: inline-block; margin-right: 5px;">
-<img src="https://www.dcity.org/dcity/wp-content/uploads/projects/i2c-oled-backpack-eastrising/i2c-oled-backpack-eastrising.jpg" alt="i2c oled backpack eastrising" width="300" height="200" />
+<a href="https://www.dcity.org/dcity/wp-content/uploads/i2c-oled-eastrising-with-blackboard.jpg"><img src="https://www.dcity.org/dcity/wp-content/uploads/i2c-oled-eastrising-with-blackboard-600x400.jpg" alt="" width="300" height=“200" class="alignnone size-medium wp-image-517" /></a>
 </div>
 <div style="display: inline-block; margin-right: 5px;">
-<img src="https://www.dcity.org/dcity/wp-content/uploads/projects/i2c-oled-backpack-eastrising/i2c-oled-backpack-on-eastrising.jpg" alt="i2c oled backpack and display eastrising" width="300" height="200" />
+<a href="https://www.dcity.org/dcity/wp-content/uploads/i2c-oled-eastrising-with-oled.jpg"><img src="https://www.dcity.org/dcity/wp-content/uploads/i2c-oled-eastrising-with-oled-600x400.jpg" alt="" width="300" height="200" class="alignnone size-medium wp-image-517" /></a>
 </div>
 <div style="display: inline-block; margin-right: 5px;">
-<img src="https://www.dcity.org/dcity/wp-content/uploads/projects/i2c-oled-backpack-eastrising/eastrising-seeeduino.jpg" alt="i2c oled backpack and display eastrising" width="300" height="200" />
+<a href="https://www.dcity.org/dcity/wp-content/uploads/i2c-oled-eastrising.jpg"><img src="https://www.dcity.org/dcity/wp-content/uploads/i2c-oled-eastrising-600x400.jpg" alt="" width="300" height=“200" class="alignnone size-medium wp-image-517" /></a>
 </div>
 </div>
 
